@@ -1,7 +1,7 @@
 // CacheAttack.cpp : Defines the entry point for the console application.
 // by @pwnallthethings
 
-#include "stdafx.h"
+#include <stdio.h>
 #include <Windows.h>
 
 EXTERN_C_START
